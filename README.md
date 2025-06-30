@@ -50,6 +50,8 @@ sudo apt install wireshark
 * Applied filters like `tcp`, `http`, `dns`, and `tls`
 * Identified and inspected different types of packets
 
+### These are the packets i captured
+![test.pcapng](capture/test.pcapng)
 ---
 
 ## 📸 Screenshots
